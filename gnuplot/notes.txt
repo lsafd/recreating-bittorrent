@@ -1,0 +1,3 @@
+128K RE4 average is: 82.5256
+512K RE4 average is: 61.8544
+2048K RE4 average is: 52.5144

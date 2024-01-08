@@ -1,0 +1,8 @@
+This is the top-level directory for your project source code
+
+Make sure to add to the .gitignore file in any subdirectory that builds
+code entries to ignore executable files and .o (and .a, .so) files
+you compile so that you do not include these in your repo.  There is
+a default .gitignore file in the directory you can use (edit it to
+include your specific binary file names), and aslo copy into any other 
+subdirectories in here where you compile code:  `vim .gitignore`
